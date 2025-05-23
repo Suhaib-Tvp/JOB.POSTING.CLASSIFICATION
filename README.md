@@ -1,4 +1,4 @@
-# Karkidi Data Science Job Scraper & Clustering
+# Karkidi Job Scraper & Clustering
 
 A Streamlit web application that scrapes Data Science job postings from Karkidi, clusters them using KMeans based on required skills, and allows you to classify new jobs by skill set.
 
