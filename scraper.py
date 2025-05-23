@@ -1,13 +1,13 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-import spacy
 import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
 from datetime import datetime
+import en_core_web_sm
+nlp = en_core_web_sm.load()
 
-nlp = spacy.load("en_core_web_sm")
 
 def scrape_karkidi_jobs(keyword="data science", pages=2):
     # Your scraping code here
