@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Principal Product Manager - Growth, Poe (Remote)",
+    "company": "Quora, Inc.",
+    "location": "India",
+    "experience": "6-8 year",
+    "summary": "About Quora:Quora\u2019s mission is to grow and share the world\u2019s knowledge. To do so, we have two knowledge sharing products:Quora: a global knowledge sharing platform with over...",
+    "skills": "Aartificial intelligence,Data Analytics,Data science techniques,Effective communication skills,Generative AI,GPT,NumPy,Pandas,Product Management,Python Programming,SQL",
+    "date_posted": "2025-05-23",
+    "cluster": 4
+  },
+  {
+    "title": "Machine Learning Physical Design Engineer",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "experience": "4-6 year",
+    "summary": "Minimum qualifications:Bachelor's degree in Electrical Engineering or a related field, or equivalent practical experience.4 years of experience with physical design flow such...",
+    "skills": "Aartificial intelligence,Algorithms,Data structuring,Design,Machine learning techniques",
+    "date_posted": "2025-05-23",
+    "cluster": 2
+  },
+  {
+    "title": "Staff Software Engineer - Monetization, Poe (Remote)",
+    "company": "Quora, Inc.",
+    "location": "India",
+    "experience": "8-10 year",
+    "summary": "About Quora:Quora\u2019s mission is to grow and share the world\u2019s knowledge. To do so, we have two knowledge sharing products:Quora: a global knowledge sharing platform with over...",
+    "skills": "Aartificial intelligence,Analytical and Problem solving,API,Data Analysis,Database,Design,Effective communication skills,GraphQL,Large Language Models - LLMs,Next.JS,Python Programming,React.js,Teamwork,TypeScript",
+    "date_posted": "2025-05-23",
+    "cluster": 6
+  },
+  {
+    "title": "Staff Backend Engineer - Bot Creator Ecosystem, Poe (Remote)",
+    "company": "Quora, Inc.",
+    "location": "India",
+    "experience": "8-10 year",
+    "summary": "About Quora:Quora\u2019s mission is to grow and share the world\u2019s knowledge. To do so, we have two knowledge sharing products:Quora: a global knowledge sharing platform with over...",
+    "skills": "Aartificial intelligence,API,Data science techniques,Design,Effective communication skills,Large Language Models - LLMs,Python Programming,Teamwork",
+    "date_posted": "2025-05-23",
+    "cluster": 0
+  },
+  {
+    "title": "Senior Backend Engineer - Bot Creator Ecosystem, Poe (Remote)",
+    "company": "Quora, Inc.",
+    "location": "India",
+    "experience": "6-8 year",
+    "summary": "About Quora:Quora\u2019s mission is to grow and share the world\u2019s knowledge. To do so, we have two knowledge sharing products:Quora: a global knowledge sharing platform with over...",
+    "skills": "Aartificial intelligence,API,Data science techniques,Design,Effective communication skills,Large Language Models - LLMs,Python Programming,Teamwork",
+    "date_posted": "2025-05-23",
+    "cluster": 0
+  },
+  {
+    "title": "Data Scientist Lead - AIML",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "experience": "6-8 year",
+    "summary": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.As a Lead AI/ML Engineer within our Asset and Wealth management, you...",
+    "skills": "Aartificial intelligence,Data science techniques,Large Language Models - LLMs,Machine learning techniques,Natural Language Processing (NLP),Python Programming",
+    "date_posted": "2025-05-23",
+    "cluster": 1
+  },
+  {
+    "title": "Applied AI ML Director - Machine Learning",
+    "company": "JPMorgan Chase",
+    "location": "Hyderabad, Telangana, India",
+    "experience": "12-14 year",
+    "summary": "Elevate your career as the Director of Machine Learning Engineering, where your technical expertise and visionary leadership will shape the future of AI and ML solutions.As a Director of...",
+    "skills": "Aartificial intelligence,AWS,Azure,Google Cloud Platform (GCP),Kubernetes-K8s,Large Language Models - LLMs,Machine learning techniques",
+    "date_posted": "2025-05-23",
+    "cluster": 5
+  },
+  {
+    "title": "Senior Product Designer",
+    "company": "Observe.AI",
+    "location": "Bangalore, Karnataka, India",
+    "experience": "8-10 year",
+    "summary": "Observe.AI is transforming customer service with AI agents that speak, think, and act like your best human agents\u2014helping enterprises automate routine customer calls and workflows, support...",
+    "skills": "Design,Leadership Skill,Machine learning techniques",
+    "date_posted": "2025-05-23",
+    "cluster": 7
+  },
+  {
+    "title": "Manager - Machine Learning",
+    "company": "Observe.AI",
+    "location": "Bangalore, Karnataka, India",
+    "experience": "8-10 year",
+    "summary": "Observe.AI is transforming customer service with AI agents that speak, think, and act like your best human agents\u2014helping enterprises automate routine customer calls and workflows, support...",
+    "skills": "Aartificial intelligence,Large Language Models - LLMs,Machine learning techniques,Natural Language Processing (NLP)",
+    "date_posted": "2025-05-23",
+    "cluster": 1
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Spotify",
+    "location": "Mumbai, Maharashtra, India",
+    "experience": "6-8 year",
+    "summary": "We are looking for a Data Scientist to join the Business Analytics team at Spotify. You will work with the Regional Analytics Lead to evaluate and influence our growth strategy in India\u2019s...",
+    "skills": "Amazon RedShift,Apache Hadoop,Data science techniques,Google BigQuery,Google Cloud Platform (GCP),Python Programming,R Programming,SQL",
+    "date_posted": "2025-05-23",
+    "cluster": 3
+  }
+]
